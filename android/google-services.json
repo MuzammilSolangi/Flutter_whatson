@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "402193948850",
+    "firebase_url": "https://whatson-app-a50cc.firebaseio.com",
+    "project_id": "whatson-app-a50cc",
+    "storage_bucket": "whatson-app-a50cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402193948850:android:2519e61ff37e48b3",
+        "android_client_info": {
+          "package_name": "com.alidevs.flutterwhatson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402193948850-87gt35eopnbuqlhgrtjf9oa4orfj4lp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxRL-dUPUG0_SUMk9Z5XXQXcMRd4Xl6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

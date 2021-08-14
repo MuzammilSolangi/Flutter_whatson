@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>402193948850-96bu7ku9g4cee8rbdb50tj2abmh64up3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.402193948850-96bu7ku9g4cee8rbdb50tj2abmh64up3</string>
+	<key>API_KEY</key>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>URL Schemes</string>
+	<string>AIzaSyAxs4my0wPotvr2K9mS37pylsm60FZlGcw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>402193948850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alidevs.flutterwhatson</string>
+	<key>PROJECT_ID</key>
+	<string>whatson-app-a50cc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatson-app-a50cc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:402193948850:ios:2519e61ff37e48b3</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatson-app-a50cc.firebaseio.com</string>
+</dict>
+</plist>
